@@ -10,3 +10,6 @@ The company has provided the data they collected for the past 12 months to help 
 In the prepare phase, we have to first determine if the data is usable by checking its credibility. I did this by going through the "ROCCC" check (Reliable, Original, Comprehensive, Current, and Cited). After verifying that the 12 months of data provided by Motivate International Inc is credible, I then move on to setting up my studio to process the data. As mentioned before, I will be using R for this phase.
 
 I observed that the data is stored in a ".csv" format (comma seperated values) and that each data set has 13 variables.
+
+### VISUALIZATION
+Dashboard link: https://public.tableau.com/app/profile/atithi.prasai/viz/Cyclistics_17276709870560/Dashboard1
